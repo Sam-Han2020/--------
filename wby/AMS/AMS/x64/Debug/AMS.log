@@ -1,0 +1,3 @@
+﻿  card_service.c
+C:\Users\16655\source\repos\AMS\AMS\card_service.c(26): warning C4715: “queryCard”: 不是所有的控件路径都返回值
+  AMS.vcxproj -> C:\Users\16655\source\repos\AMS\x64\Debug\AccountManagement.exe
